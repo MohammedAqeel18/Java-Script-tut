@@ -1,0 +1,12 @@
+//continue
+
+let text = '';
+
+for (let i=0; i <=10;i++){
+    if (i===5v){
+        continue;
+    }
+    text = text +i;
+}
+
+console.log(text);
